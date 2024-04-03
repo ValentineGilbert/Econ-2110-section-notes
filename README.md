@@ -1,3 +1,5 @@
+# Econ-2110-section-notes
+
 These are section notes I developed as the teaching fellow for Econ 2110: Econometric Methods for Applied Research I. Topics covered in each section are:
 1. Law of Large Numbers, Central Limit Theorem, and Slutsky's Theorem
 2. Randomization Inference
